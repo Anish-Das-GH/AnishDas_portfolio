@@ -2,17 +2,7 @@
 
 # Anish Das' Portfolio
 
-<br/>
-<div align="center">
-  <img alt="Demo" src="public/developer.png" />
-</div>
-<br/>
-<br/>
-
-
-
-
-Live Preview - [Click Here]( )
+Live Preview - [Click Here](anish-das-portfolio.vercel.app)
 
 
 ## About Me
