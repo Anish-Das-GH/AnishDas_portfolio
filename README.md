@@ -2,7 +2,7 @@
 
 # Anish Das' Portfolio
 
-Live Preview - [Click Here](anish-das-portfolio.vercel.app)
+Live Preview - [Click Here](https://anish-das-portfolio.vercel.app/)
 
 
 ## About Me
