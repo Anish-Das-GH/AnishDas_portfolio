@@ -1,6 +1,6 @@
 
 
-# Anish Das' Portfolio
+# Portfolio
 
 Live Preview - [Click Here](https://anish-das-portfolio.vercel.app/)
 
